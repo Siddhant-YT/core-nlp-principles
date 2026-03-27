@@ -1,4 +1,4 @@
-# Smart Text Analyzer — NLP POC
+# Smart Text Analyzer - NLP POC
 
 A Streamlit application demonstrating Core NLP Principles:
 - Text Preprocessing (lowercasing, punctuation removal, stopwords, lemmatization)
